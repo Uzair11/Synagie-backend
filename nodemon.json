@@ -1,0 +1,14 @@
+{
+    "verbose": true,
+    "watch": [
+        "./"
+    ],
+    "ignore": [
+        "build/"
+    ],
+    "exec": "NODE_ENV=development webpack --config webpack.config.dev.js && node ./build/index.js",
+    "env": {
+        "NODE_ENV": "development"
+    },
+    "ext": "js json ts"
+}

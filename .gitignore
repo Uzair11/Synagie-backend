@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/
+.vscode/
+private/
+private.json
+.idea/

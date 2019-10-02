@@ -1,0 +1,19 @@
+{
+  "mysql":{
+    "username": "root",
+    "password": "",
+    "port": 3306,
+    "host": "localhost",
+    "dbName": "zipply"
+  },
+  "mongo":{
+    "uri": "",
+
+    "host": "localhost",
+    "port": "27017",
+    "dbName": "synagie"
+  },
+  "jwtSecret": "0.rfyj3n9nzh",
+  "port": 4001,
+  "defaultPageSize": 100
+}
